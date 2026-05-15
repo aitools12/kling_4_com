@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aitools12.github.io/kling_4_com/sitemap.xml
